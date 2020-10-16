@@ -65,9 +65,9 @@ THEN that will be shown on the page, and added to their transaction history when
   -
   Screenshot of app on bowser
   -
-  [budgetTracker](./public/;assets/budgetTrackerScreenshot1.jpg)
+  [budgetTracker](./Public/Assets/budgetTrackerScreenshot1.jpg)
   -
   Screenshot of mongodb on Robo3T
   -
-  [budgetTracker](./public/assets/budgetTrackerMongoDB.jpg)
+  [budgetTracker](./Public/Assets/budgetTrackerMongoDB.jpg)
 
