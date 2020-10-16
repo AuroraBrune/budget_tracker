@@ -69,5 +69,5 @@ THEN that will be shown on the page, and added to their transaction history when
   -
   Screenshot of mongodb on Robo3T
   -
-  ![budgetTracker](./Assets/budgetTrackerMongoDB.jpg)
+  ![budgetTracker](./assets/budgetTrackerMongoDB.jpg)
 
