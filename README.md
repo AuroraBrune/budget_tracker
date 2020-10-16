@@ -62,3 +62,12 @@ THEN that will be shown on the page, and added to their transaction history when
   * the URL to the Github repository
   https://github.com/AuroraBrune/budget_tracker
 
+  -
+  Screenshot of app on bowser
+  -
+  [budgetTracker](./public/;assets/budgetTrackerScreenshot1.jpg)
+  -
+  Screenshot of mongodb on Robo3T
+  -
+  [budgetTracker](./public/assets/budgetTrackerMongoDB.jpg)
+
